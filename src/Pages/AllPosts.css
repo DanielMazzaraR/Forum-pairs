@@ -1,0 +1,10 @@
+.scroll {
+  padding:4px;
+  background-color: green;
+  width: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+  display: flex;
+  flex-direction: row;
+}
